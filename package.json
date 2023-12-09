@@ -1,7 +1,7 @@
 {
   "homepage": "https://theartymorty.github.io/SabaudiaRanking2/",
-  "name": "sabaudiaranking",
-  "private": true,
+  "name": "sabaudiaranking2",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
